@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nhodgson1227
-- 👀 I’m interested in Data Science and Databases.
+- 👋 Hi, I’m Nathan Hodgson
+- 👀 I’m interested in Data. Big, small, analysis, science, all of it.
 - 🌱 I’m currently learning Relational Database Management.
 - 📫 How to reach me: nhodgson1227 [@] gmail.com
 
